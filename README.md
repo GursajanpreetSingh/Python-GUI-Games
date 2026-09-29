@@ -4,10 +4,10 @@ A collection of Python GUI games built using Turtle and other GUI programming co
 
 ## 🎮 Games
 
-| Game                     | Description                                                                                              | Concepts                                                         |
-| ------------------------ | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Game                | Description                                                                                              | Concepts                                                         |
+| ------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | 🐍 [Snake](./Snake-Game) | A classic Snake game with food, scoring, high-score tracking, collision detection, and keyboard controls | Turtle, OOP, Keyboard Events, Collision Detection, File Handling |
-| 🏓 [Pong](./Pong-Game)   | A classic two-player Pong game with paddles, ball movement, collision detection, and scoring             | Turtle, OOP, Keyboard Events, Collision Detection, Game Loop     |
+| 🏓 [Pong](./Pong)   | A classic two-player Pong game with paddles, ball movement, collision detection, and scoring             | Turtle, OOP, Keyboard Events, Collision Detection, Game Loop     |
 
 ## 🛠️ Concepts Practiced
 
