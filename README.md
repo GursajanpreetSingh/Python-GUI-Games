@@ -4,24 +4,27 @@ A collection of Python GUI games built using Turtle and other GUI programming co
 
 ## 🎮 Games
 
-| Game                                      | Description                                                                                                  | Concepts                                                         |
-|-------------------------------------------| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| 🐍 [Snake](./Snake-Game)                  | A classic Snake game with food, scoring, high-score tracking, collision detection, and keyboard controls     | Turtle, OOP, Keyboard Events, Collision Detection, File Handling |
-| 🏓 [Pong](./Pong-Game)                    | A classic two-player Pong game with paddles, ball movement, collision detection, and scoring                 | Turtle, OOP, Keyboard Events, Collision Detection, Game Loop     |
-| 🐢 [Turtle Crossing](./Turtle-Crossing-Game) | A road-crossing game where the player guides a turtle across moving traffic while progressing through levels | Turtle, OOP, Keyboard Events, Collision Detection, Game Loop     |
+| Game | Description | Concepts |
+|---|---|---|
+| 🐍 [Snake](./Snake-Game) | A classic Snake game with food, scoring, high-score tracking, collision detection, and keyboard controls | Turtle, OOP, Keyboard Events, Collision Detection, File Handling |
+| 🏓 [Pong](./Pong-Game) | A classic two-player Pong game with paddles, ball movement, collision detection, and scoring | Turtle, OOP, Keyboard Events, Collision Detection, Game Loop |
+| 🐢 [Turtle Crossing](./Turtle-Crossing) | A road-crossing game where the player guides a turtle across moving traffic while progressing through levels | Turtle, OOP, Keyboard Events, Collision Detection, Game Loop |
+| 🏁 [Turtle Race](./Turtle-Race) | A turtle racing game where the player bets on a turtle color and watches six turtles race to the finish line | Turtle, Randomization, User Input, Loops, Conditional Logic |
 
 ## 🛠️ Concepts Practiced
 
-* Python GUI programming
-* Turtle graphics
-* Object-Oriented Programming
-* Keyboard event handling
-* Game loops and animation
-* Collision detection
-* Randomization
-* Score and level management
-* File handling
-* Modular code organization
+- Python GUI programming
+- Turtle graphics
+- Object-Oriented Programming
+- Keyboard event handling
+- Game loops and animation
+- Collision detection
+- Randomization
+- User input
+- Conditional logic
+- Score and level management
+- File handling
+- Modular code organization
 
 ## 🎯 Purpose
 
