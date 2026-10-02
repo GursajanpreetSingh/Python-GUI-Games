@@ -10,6 +10,7 @@ A collection of Python GUI games built using Turtle and other GUI programming co
 | 🏓 [Pong](./Pong-Game) | A classic two-player Pong game with paddles, ball movement, collision detection, and scoring | Turtle, OOP, Keyboard Events, Collision Detection, Game Loop |
 | 🐢 [Turtle Crossing](./Turtle-Crossing) | A road-crossing game where the player guides a turtle across moving traffic while progressing through levels | Turtle, OOP, Keyboard Events, Collision Detection, Game Loop |
 | 🏁 [Turtle Race](./Turtle-Race) | A turtle racing game where the player bets on a turtle color and watches six turtles race to the finish line | Turtle, Randomization, User Input, Loops, Conditional Logic |
+| 🇺🇸 [U.S. States Game](./US-States-Game) | An interactive geography game where players identify all 50 U.S. states and receive a list of states they still need to learn | Turtle, Pandas, CSV Handling, User Input, Data Filtering |
 
 ## 🛠️ Concepts Practiced
 
